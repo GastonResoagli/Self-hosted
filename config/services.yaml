@@ -1,0 +1,21 @@
+- Red:
+    - Router del laboratorio:
+        href: http://192.168.1.1
+        description: Interfaz de administración
+        icon: mdi-router-network
+        ping: 192.168.1.1
+    - UNNE:
+        href: https://www.unne.edu.ar
+        description: Sitio de la universidad
+        icon: mdi-school
+        siteMonitor: https://www.unne.edu.ar
+- Servicios:
+    - Servidor Ubuntu VM:
+        href: http://192.168.1.28
+        description: Servidor web Apache2 en VM
+        icon: mdi-ubuntu
+        ping: 192.168.1.28
+        siteMonitor: http://192.168.1.28
+
+# Los servicios del grupo "Servicios" no se definen acá: se descubren
+# automáticamente a partir de las etiquetas homepage.* del docker-compose.yml.

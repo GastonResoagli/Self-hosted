@@ -1,0 +1,9 @@
+title: Laboratorio Redes de Datos
+headerStyle: boxed
+statusStyle: dot
+
+layout:
+  Red:
+    icon: mdi-lan-connect
+  Servicios:
+    icon: mdi-apps

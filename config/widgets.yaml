@@ -1,0 +1,19 @@
+- resources:
+    label: Sistema
+    expanded: true
+    cpu: true
+    memory: true
+    uptime: true
+    disk: /
+
+- search:
+    provider: duckduckgo
+    target: _blank
+
+- openmeteo:
+    label: Corrientes
+    latitude: -27.48
+    longitude: -58.83
+    timezone: America/Argentina/Cordoba
+    units: metric
+    cache: 5

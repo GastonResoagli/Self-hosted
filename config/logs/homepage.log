@@ -1,0 +1,598 @@
+[2026-11-04T19:11:41.413Z] info: kubernetes.yaml was copied to the config folder
+[2026-11-04T19:12:01.822Z] info: custom.css was copied to the config folder
+[2026-11-04T19:12:01.828Z] info: custom.js was copied to the config folder
+[2026-11-04T19:12:03.151Z] error: <freshrssProxyHandler> Unable to login to FreshRSS API: TypeError: Cannot read properties of undefined (reading 'split')
+    at c (.next/server/pages/api/services/proxy.js:1:4725)
+    at async g (.next/server/pages/api/services/proxy.js:1:5874)
+[2026-11-04T19:12:03.167Z] error: <freshrssProxyHandler> Error getting data from FreshRSS: http://freshrss/api/greader.php/reader/api/0/subscription/list?output=json status 503. Data: Service Unavailable!
+[2026-11-04T19:12:03.183Z] error: <freshrssProxyHandler> Error getting data from FreshRSS: http://freshrss/api/greader.php/reader/api/0/unread-count?output=json status 503. Data: Service Unavailable!
+[2026-11-04T19:12:14.841Z] error: <freshrssProxyHandler> Unable to login to FreshRSS API: TypeError: Cannot read properties of undefined (reading 'split')
+    at c (.next/server/pages/api/services/proxy.js:1:4725)
+    at async g (.next/server/pages/api/services/proxy.js:1:5874)
+[2026-11-04T19:12:14.853Z] error: <freshrssProxyHandler> Error getting data from FreshRSS: http://freshrss/api/greader.php/reader/api/0/subscription/list?output=json status 503. Data: Service Unavailable!
+[2026-11-04T19:12:14.871Z] error: <freshrssProxyHandler> Error getting data from FreshRSS: http://freshrss/api/greader.php/reader/api/0/unread-count?output=json status 503. Data: Service Unavailable!
+[2026-11-04T19:12:20.673Z] error: <freshrssProxyHandler> Unable to login to FreshRSS API: TypeError: Cannot read properties of undefined (reading 'split')
+    at c (.next/server/pages/api/services/proxy.js:1:4725)
+    at async g (.next/server/pages/api/services/proxy.js:1:5874)
+[2026-11-04T19:12:20.689Z] error: <freshrssProxyHandler> Error getting data from FreshRSS: http://freshrss/api/greader.php/reader/api/0/subscription/list?output=json status 503. Data: Service Unavailable!
+[2026-11-04T19:12:20.699Z] error: <freshrssProxyHandler> Error getting data from FreshRSS: http://freshrss/api/greader.php/reader/api/0/unread-count?output=json status 503. Data: Service Unavailable!
+[2026-11-04T19:13:29.698Z] error: <freshrssProxyHandler> Unable to login to FreshRSS API: TypeError: Cannot read properties of undefined (reading 'split')
+    at c (.next/server/pages/api/services/proxy.js:1:4725)
+    at async g (.next/server/pages/api/services/proxy.js:1:5874)
+[2026-11-04T19:13:29.710Z] error: <freshrssProxyHandler> Error getting data from FreshRSS: http://freshrss/api/greader.php/reader/api/0/subscription/list?output=json status 503. Data: Service Unavailable!
+[2026-11-04T19:13:29.723Z] error: <freshrssProxyHandler> Error getting data from FreshRSS: http://freshrss/api/greader.php/reader/api/0/unread-count?output=json status 503. Data: Service Unavailable!
+[2026-11-04T19:13:45.048Z] error: <freshrssProxyHandler> Unable to login to FreshRSS API: TypeError: Cannot read properties of undefined (reading 'split')
+    at c (.next/server/pages/api/services/proxy.js:1:4725)
+    at async g (.next/server/pages/api/services/proxy.js:1:5874)
+[2026-11-04T19:13:45.063Z] error: <freshrssProxyHandler> Error getting data from FreshRSS: http://freshrss/api/greader.php/reader/api/0/subscription/list?output=json status 503. Data: Service Unavailable!
+[2026-11-04T19:13:45.074Z] error: <freshrssProxyHandler> Error getting data from FreshRSS: http://freshrss/api/greader.php/reader/api/0/unread-count?output=json status 503. Data: Service Unavailable!
+[2026-11-04T19:13:55.322Z] error: <freshrssProxyHandler> Unable to login to FreshRSS API: TypeError: Cannot read properties of undefined (reading 'split')
+    at c (.next/server/pages/api/services/proxy.js:1:4725)
+    at async g (.next/server/pages/api/services/proxy.js:1:5874)
+[2026-11-04T19:13:55.333Z] error: <freshrssProxyHandler> Error getting data from FreshRSS: http://freshrss/api/greader.php/reader/api/0/subscription/list?output=json status 503. Data: Service Unavailable!
+[2026-11-04T19:13:55.350Z] error: <freshrssProxyHandler> Error getting data from FreshRSS: http://freshrss/api/greader.php/reader/api/0/unread-count?output=json status 503. Data: Service Unavailable!
+[2026-11-04T19:14:03.633Z] error: <freshrssProxyHandler> Unable to login to FreshRSS API: TypeError: Cannot read properties of undefined (reading 'split')
+    at c (.next/server/pages/api/services/proxy.js:1:4725)
+    at async g (.next/server/pages/api/services/proxy.js:1:5874)
+[2026-11-04T19:14:03.646Z] error: <freshrssProxyHandler> Error getting data from FreshRSS: http://freshrss/api/greader.php/reader/api/0/subscription/list?output=json status 503. Data: Service Unavailable!
+[2026-11-04T19:14:03.655Z] error: <freshrssProxyHandler> Error getting data from FreshRSS: http://freshrss/api/greader.php/reader/api/0/unread-count?output=json status 503. Data: Service Unavailable!
+[2026-11-04T19:14:12.744Z] error: <freshrssProxyHandler> Unable to login to FreshRSS API: TypeError: Cannot read properties of undefined (reading 'split')
+    at c (.next/server/pages/api/services/proxy.js:1:4725)
+    at async g (.next/server/pages/api/services/proxy.js:1:5874)
+[2026-11-04T19:14:12.760Z] error: <freshrssProxyHandler> Error getting data from FreshRSS: http://freshrss/api/greader.php/reader/api/0/subscription/list?output=json status 503. Data: Service Unavailable!
+[2026-11-04T19:14:12.776Z] error: <freshrssProxyHandler> Error getting data from FreshRSS: http://freshrss/api/greader.php/reader/api/0/unread-count?output=json status 503. Data: Service Unavailable!
+[2026-11-04T19:14:27.687Z] error: <freshrssProxyHandler> Unable to login to FreshRSS API: TypeError: Cannot read properties of undefined (reading 'split')
+    at c (.next/server/pages/api/services/proxy.js:1:4725)
+    at async g (.next/server/pages/api/services/proxy.js:1:5874)
+[2026-11-04T19:14:27.700Z] error: <freshrssProxyHandler> Error getting data from FreshRSS: http://freshrss/api/greader.php/reader/api/0/subscription/list?output=json status 503. Data: Service Unavailable!
+[2026-11-04T19:14:27.714Z] error: <freshrssProxyHandler> Error getting data from FreshRSS: http://freshrss/api/greader.php/reader/api/0/unread-count?output=json status 503. Data: Service Unavailable!
+[2026-11-04T19:15:41.892Z] error: <freshrssProxyHandler> Unable to login to FreshRSS API: TypeError: Cannot read properties of undefined (reading 'split')
+    at c (.next/server/pages/api/services/proxy.js:1:4725)
+    at async g (.next/server/pages/api/services/proxy.js:1:5874)
+[2026-11-04T19:15:41.907Z] error: <freshrssProxyHandler> Error getting data from FreshRSS: http://freshrss/api/greader.php/reader/api/0/subscription/list?output=json status 503. Data: Service Unavailable!
+[2026-11-04T19:15:41.924Z] error: <freshrssProxyHandler> Error getting data from FreshRSS: http://freshrss/api/greader.php/reader/api/0/unread-count?output=json status 503. Data: Service Unavailable!
+[2026-11-04T19:15:43.724Z] error: <freshrssProxyHandler> Unable to login to FreshRSS API: TypeError: Cannot read properties of undefined (reading 'split')
+    at c (.next/server/pages/api/services/proxy.js:1:4725)
+    at async g (.next/server/pages/api/services/proxy.js:1:5874)
+[2026-11-04T19:15:43.740Z] error: <freshrssProxyHandler> Error getting data from FreshRSS: http://freshrss/api/greader.php/reader/api/0/subscription/list?output=json status 503. Data: Service Unavailable!
+[2026-11-04T19:15:43.752Z] error: <freshrssProxyHandler> Error getting data from FreshRSS: http://freshrss/api/greader.php/reader/api/0/unread-count?output=json status 503. Data: Service Unavailable!
+[2026-11-04T19:15:55.940Z] error: <freshrssProxyHandler> Unable to login to FreshRSS API: TypeError: Cannot read properties of undefined (reading 'split')
+    at c (.next/server/pages/api/services/proxy.js:1:4725)
+    at async g (.next/server/pages/api/services/proxy.js:1:5874)
+[2026-11-04T19:15:55.952Z] error: <freshrssProxyHandler> Error getting data from FreshRSS: http://freshrss/api/greader.php/reader/api/0/subscription/list?output=json status 503. Data: Service Unavailable!
+[2026-11-04T19:15:55.963Z] error: <freshrssProxyHandler> Error getting data from FreshRSS: http://freshrss/api/greader.php/reader/api/0/unread-count?output=json status 503. Data: Service Unavailable!
+[2026-11-04T19:16:06.422Z] error: <freshrssProxyHandler> Unable to login to FreshRSS API: TypeError: Cannot read properties of undefined (reading 'split')
+    at c (.next/server/pages/api/services/proxy.js:1:4725)
+    at async g (.next/server/pages/api/services/proxy.js:1:5874)
+[2026-11-04T19:16:06.430Z] error: <freshrssProxyHandler> Error getting data from FreshRSS: http://freshrss/api/greader.php/reader/api/0/subscription/list?output=json status 503. Data: Service Unavailable!
+[2026-11-04T19:16:06.443Z] error: <freshrssProxyHandler> Error getting data from FreshRSS: http://freshrss/api/greader.php/reader/api/0/unread-count?output=json status 503. Data: Service Unavailable!
+[2026-11-04T19:16:19.478Z] error: <freshrssProxyHandler> Unable to login to FreshRSS API: TypeError: Cannot read properties of undefined (reading 'split')
+    at c (.next/server/pages/api/services/proxy.js:1:4725)
+    at async g (.next/server/pages/api/services/proxy.js:1:5874)
+[2026-11-04T19:16:19.486Z] error: <freshrssProxyHandler> Error getting data from FreshRSS: http://freshrss/api/greader.php/reader/api/0/subscription/list?output=json status 503. Data: Service Unavailable!
+[2026-11-04T19:16:19.495Z] error: <freshrssProxyHandler> Error getting data from FreshRSS: http://freshrss/api/greader.php/reader/api/0/unread-count?output=json status 503. Data: Service Unavailable!
+[2026-11-04T19:16:46.397Z] error: <freshrssProxyHandler> Unable to login to FreshRSS API: TypeError: Cannot read properties of undefined (reading 'split')
+    at c (.next/server/pages/api/services/proxy.js:1:4725)
+    at async g (.next/server/pages/api/services/proxy.js:1:5874)
+[2026-11-04T19:16:46.410Z] error: <freshrssProxyHandler> Error getting data from FreshRSS: http://freshrss/api/greader.php/reader/api/0/subscription/list?output=json status 503. Data: Service Unavailable!
+[2026-11-04T19:16:46.423Z] error: <freshrssProxyHandler> Error getting data from FreshRSS: http://freshrss/api/greader.php/reader/api/0/unread-count?output=json status 503. Data: Service Unavailable!
+[2026-11-04T19:16:48.584Z] error: <freshrssProxyHandler> Unable to login to FreshRSS API: TypeError: Cannot read properties of undefined (reading 'split')
+    at c (.next/server/pages/api/services/proxy.js:1:4725)
+    at async g (.next/server/pages/api/services/proxy.js:1:5874)
+[2026-11-04T19:16:48.597Z] error: <freshrssProxyHandler> Error getting data from FreshRSS: http://freshrss/api/greader.php/reader/api/0/subscription/list?output=json status 503. Data: Service Unavailable!
+[2026-11-04T19:16:48.636Z] error: <freshrssProxyHandler> Error getting data from FreshRSS: http://freshrss/api/greader.php/reader/api/0/unread-count?output=json status 503. Data: Service Unavailable!
+[2026-11-04T19:19:42.686Z] error: <freshrssProxyHandler> Unable to login to FreshRSS API: TypeError: Cannot read properties of undefined (reading 'split')
+    at c (.next/server/pages/api/services/proxy.js:1:4725)
+    at async g (.next/server/pages/api/services/proxy.js:1:5874)
+[2026-11-04T19:19:42.698Z] error: <freshrssProxyHandler> Error getting data from FreshRSS: http://freshrss/api/greader.php/reader/api/0/subscription/list?output=json status 503. Data: Service Unavailable!
+[2026-11-04T19:19:42.708Z] error: <freshrssProxyHandler> Error getting data from FreshRSS: http://freshrss/api/greader.php/reader/api/0/unread-count?output=json status 503. Data: Service Unavailable!
+[2026-11-04T19:20:00.669Z] error: <freshrssProxyHandler> Unable to login to FreshRSS API: TypeError: Cannot read properties of undefined (reading 'split')
+    at c (.next/server/pages/api/services/proxy.js:1:4725)
+    at async g (.next/server/pages/api/services/proxy.js:1:5874)
+[2026-11-04T19:20:00.681Z] error: <freshrssProxyHandler> Error getting data from FreshRSS: http://freshrss/api/greader.php/reader/api/0/subscription/list?output=json status 503. Data: Service Unavailable!
+[2026-11-04T19:20:00.694Z] error: <freshrssProxyHandler> Error getting data from FreshRSS: http://freshrss/api/greader.php/reader/api/0/unread-count?output=json status 503. Data: Service Unavailable!
+[2026-11-04T19:20:08.616Z] error: <freshrssProxyHandler> Unable to login to FreshRSS API: TypeError: Cannot read properties of undefined (reading 'split')
+    at c (.next/server/pages/api/services/proxy.js:1:4725)
+    at async g (.next/server/pages/api/services/proxy.js:1:5874)
+[2026-11-04T19:20:08.630Z] error: <freshrssProxyHandler> Error getting data from FreshRSS: http://freshrss/api/greader.php/reader/api/0/subscription/list?output=json status 503. Data: Service Unavailable!
+[2026-11-04T19:20:08.641Z] error: <freshrssProxyHandler> Error getting data from FreshRSS: http://freshrss/api/greader.php/reader/api/0/unread-count?output=json status 503. Data: Service Unavailable!
+[2026-11-04T19:20:24.656Z] error: <freshrssProxyHandler> Unable to login to FreshRSS API: TypeError: Cannot read properties of undefined (reading 'split')
+    at c (.next/server/pages/api/services/proxy.js:1:4725)
+    at async g (.next/server/pages/api/services/proxy.js:1:5874)
+[2026-11-04T19:20:24.666Z] error: <freshrssProxyHandler> Error getting data from FreshRSS: http://freshrss/api/greader.php/reader/api/0/subscription/list?output=json status 503. Data: Service Unavailable!
+[2026-11-04T19:20:24.682Z] error: <freshrssProxyHandler> Error getting data from FreshRSS: http://freshrss/api/greader.php/reader/api/0/unread-count?output=json status 503. Data: Service Unavailable!
+[2026-11-04T19:20:43.677Z] error: <freshrssProxyHandler> Unable to login to FreshRSS API: TypeError: Cannot read properties of undefined (reading 'split')
+    at c (.next/server/pages/api/services/proxy.js:1:4725)
+    at async g (.next/server/pages/api/services/proxy.js:1:5874)
+[2026-11-04T19:20:43.690Z] error: <freshrssProxyHandler> Error getting data from FreshRSS: http://freshrss/api/greader.php/reader/api/0/subscription/list?output=json status 503. Data: Service Unavailable!
+[2026-11-04T19:20:43.701Z] error: <freshrssProxyHandler> Error getting data from FreshRSS: http://freshrss/api/greader.php/reader/api/0/unread-count?output=json status 503. Data: Service Unavailable!
+[2026-11-04T19:20:49.510Z] error: <freshrssProxyHandler> Unable to login to FreshRSS API: TypeError: Cannot read properties of undefined (reading 'split')
+    at c (.next/server/pages/api/services/proxy.js:1:4725)
+    at async g (.next/server/pages/api/services/proxy.js:1:5874)
+[2026-11-04T19:20:49.521Z] error: <freshrssProxyHandler> Error getting data from FreshRSS: http://freshrss/api/greader.php/reader/api/0/subscription/list?output=json status 503. Data: Service Unavailable!
+[2026-11-04T19:20:49.529Z] error: <freshrssProxyHandler> Error getting data from FreshRSS: http://freshrss/api/greader.php/reader/api/0/unread-count?output=json status 503. Data: Service Unavailable!
+[2026-11-04T19:20:58.093Z] error: <freshrssProxyHandler> Unable to login to FreshRSS API: TypeError: Cannot read properties of undefined (reading 'split')
+    at c (.next/server/pages/api/services/proxy.js:1:4725)
+    at async g (.next/server/pages/api/services/proxy.js:1:5874)
+[2026-11-04T19:20:58.107Z] error: <freshrssProxyHandler> Error getting data from FreshRSS: http://freshrss/api/greader.php/reader/api/0/subscription/list?output=json status 503. Data: Service Unavailable!
+[2026-11-04T19:20:58.121Z] error: <freshrssProxyHandler> Error getting data from FreshRSS: http://freshrss/api/greader.php/reader/api/0/unread-count?output=json status 503. Data: Service Unavailable!
+[2026-11-04T19:25:05.517Z] error: <httpProxy> Error calling http://192.168.1.28/...
+[2026-11-04T19:25:05.519Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 192.168.1.28:80
+      at <unknown> (Error: connect ECONNREFUSED 192.168.1.28:80) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '192.168.1.28',
+    port: 80
+  }
+]
+[2026-11-04T19:25:06.150Z] error: <httpProxy> Error calling http://192.168.1.28/...
+[2026-11-04T19:25:06.151Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 192.168.1.28:80
+      at <unknown> (Error: connect ECONNREFUSED 192.168.1.28:80) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '192.168.1.28',
+    port: 80
+  }
+]
+[2026-11-04T19:25:26.556Z] error: <httpProxy> Error calling http://192.168.1.28/...
+[2026-11-04T19:25:26.557Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 192.168.1.28:80
+      at <unknown> (Error: connect ECONNREFUSED 192.168.1.28:80) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '192.168.1.28',
+    port: 80
+  }
+]
+[2026-11-04T19:25:27.197Z] error: <httpProxy> Error calling http://192.168.1.28/...
+[2026-11-04T19:25:27.199Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 192.168.1.28:80
+      at <unknown> (Error: connect ECONNREFUSED 192.168.1.28:80) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '192.168.1.28',
+    port: 80
+  }
+]
+[2026-11-04T19:38:21.292Z] error: <httpProxy> Error calling http://192.168.1.28/...
+[2026-11-04T19:38:21.293Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 192.168.1.28:80
+      at <unknown> (Error: connect ECONNREFUSED 192.168.1.28:80) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '192.168.1.28',
+    port: 80
+  }
+]
+[2026-11-04T19:38:42.329Z] error: <httpProxy> Error calling http://192.168.1.28/...
+[2026-11-04T19:38:42.330Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 192.168.1.28:80
+      at <unknown> (Error: connect ECONNREFUSED 192.168.1.28:80) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '192.168.1.28',
+    port: 80
+  }
+]
+[2026-11-04T19:39:12.319Z] error: <httpProxy> Error calling http://192.168.1.28/...
+[2026-11-04T19:39:12.321Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 192.168.1.28:80
+      at <unknown> (Error: connect ECONNREFUSED 192.168.1.28:80) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '192.168.1.28',
+    port: 80
+  }
+]
+[2026-11-04T19:39:33.365Z] error: <httpProxy> Error calling http://192.168.1.28/...
+[2026-11-04T19:39:33.366Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 192.168.1.28:80
+      at <unknown> (Error: connect ECONNREFUSED 192.168.1.28:80) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '192.168.1.28',
+    port: 80
+  }
+]
+[2026-11-04T19:46:26.969Z] error: <httpProxy> Error calling http://192.168.1.28/...
+[2026-11-04T19:46:26.981Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 192.168.1.28:80
+      at <unknown> (Error: connect ECONNREFUSED 192.168.1.28:80) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '192.168.1.28',
+    port: 80
+  }
+]
+[2026-11-04T19:46:48.019Z] error: <httpProxy> Error calling http://192.168.1.28/...
+[2026-11-04T19:46:48.023Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 192.168.1.28:80
+      at <unknown> (Error: connect ECONNREFUSED 192.168.1.28:80) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '192.168.1.28',
+    port: 80
+  }
+]
+[2026-11-04T22:22:17.514Z] error: <httpProxy> Error calling http://192.168.1.28/...
+[2026-11-04T22:22:17.516Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 192.168.1.28:80
+      at <unknown> (Error: connect ECONNREFUSED 192.168.1.28:80) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '192.168.1.28',
+    port: 80
+  }
+]
+[2026-11-04T22:22:38.574Z] error: <httpProxy> Error calling http://192.168.1.28/...
+[2026-11-04T22:22:38.575Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 192.168.1.28:80
+      at <unknown> (Error: connect ECONNREFUSED 192.168.1.28:80) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '192.168.1.28',
+    port: 80
+  }
+]
+[2026-11-04T22:22:46.250Z] error: <httpProxy> Error calling http://192.168.1.28/...
+[2026-11-04T22:22:46.252Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 192.168.1.28:80
+      at <unknown> (Error: connect ECONNREFUSED 192.168.1.28:80) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '192.168.1.28',
+    port: 80
+  }
+]
+[2026-11-04T22:23:07.289Z] error: <httpProxy> Error calling http://192.168.1.28/...
+[2026-11-04T22:23:07.290Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 192.168.1.28:80
+      at <unknown> (Error: connect ECONNREFUSED 192.168.1.28:80) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '192.168.1.28',
+    port: 80
+  }
+]
+[2026-11-04T22:23:58.348Z] error: <httpProxy> Error calling http://192.168.1.28/...
+[2026-11-04T22:23:58.349Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 192.168.1.28:80
+      at <unknown> (Error: connect ECONNREFUSED 192.168.1.28:80) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '192.168.1.28',
+    port: 80
+  }
+]
+[2026-11-04T22:24:19.504Z] error: <httpProxy> Error calling http://192.168.1.28/...
+[2026-11-04T22:24:19.505Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 192.168.1.28:80
+      at <unknown> (Error: connect ECONNREFUSED 192.168.1.28:80) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '192.168.1.28',
+    port: 80
+  }
+]
+[2026-11-04T22:32:01.181Z] error: <httpProxy> Error calling http://192.168.1.28/...
+[2026-11-04T22:32:01.183Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 192.168.1.28:80
+      at <unknown> (Error: connect ECONNREFUSED 192.168.1.28:80) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '192.168.1.28',
+    port: 80
+  }
+]
+[2026-11-04T22:32:22.232Z] error: <httpProxy> Error calling http://192.168.1.28/...
+[2026-11-04T22:32:22.233Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 192.168.1.28:80
+      at <unknown> (Error: connect ECONNREFUSED 192.168.1.28:80) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '192.168.1.28',
+    port: 80
+  }
+]
+[2026-11-04T22:32:43.094Z] error: <httpProxy> Error calling http://192.168.1.28/...
+[2026-11-04T22:32:43.095Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 192.168.1.28:80
+      at <unknown> (Error: connect ECONNREFUSED 192.168.1.28:80) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '192.168.1.28',
+    port: 80
+  }
+]
+[2026-11-04T22:32:55.497Z] error: <httpProxy> Error calling http://192.168.1.28/...
+[2026-11-04T22:32:55.498Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 192.168.1.28:80
+      at <unknown> (Error: connect ECONNREFUSED 192.168.1.28:80) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '192.168.1.28',
+    port: 80
+  }
+]
+[2026-11-04T22:33:04.143Z] error: <httpProxy> Error calling http://192.168.1.28/...
+[2026-11-04T22:33:04.144Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 192.168.1.28:80
+      at <unknown> (Error: connect ECONNREFUSED 192.168.1.28:80) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '192.168.1.28',
+    port: 80
+  }
+]
+[2026-11-04T22:33:16.528Z] error: <httpProxy> Error calling http://192.168.1.28/...
+[2026-11-04T22:33:16.529Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 192.168.1.28:80
+      at <unknown> (Error: connect ECONNREFUSED 192.168.1.28:80) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '192.168.1.28',
+    port: 80
+  }
+]
+[2026-11-04T22:34:07.593Z] error: <httpProxy> Error calling http://192.168.1.28/...
+[2026-11-04T22:34:07.594Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 192.168.1.28:80
+      at <unknown> (Error: connect ECONNREFUSED 192.168.1.28:80) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '192.168.1.28',
+    port: 80
+  }
+]
+[2026-11-04T22:34:28.650Z] error: <httpProxy> Error calling http://192.168.1.28/...
+[2026-11-04T22:34:28.651Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 192.168.1.28:80
+      at <unknown> (Error: connect ECONNREFUSED 192.168.1.28:80) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '192.168.1.28',
+    port: 80
+  }
+]
+[2026-11-04T22:35:11.875Z] error: <httpProxy> Error calling http://192.168.1.28/...
+[2026-11-04T22:35:11.876Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 192.168.1.28:80
+      at <unknown> (Error: connect ECONNREFUSED 192.168.1.28:80) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '192.168.1.28',
+    port: 80
+  }
+]
+[2026-11-04T22:35:32.918Z] error: <httpProxy> Error calling http://192.168.1.28/...
+[2026-11-04T22:35:32.919Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 192.168.1.28:80
+      at <unknown> (Error: connect ECONNREFUSED 192.168.1.28:80) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '192.168.1.28',
+    port: 80
+  }
+]
+[2026-11-04T22:45:52.205Z] error: <httpProxy> Error calling http://192.168.1.28/...
+[2026-11-04T22:45:52.206Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 192.168.1.28:80
+      at <unknown> (Error: connect ECONNREFUSED 192.168.1.28:80) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '192.168.1.28',
+    port: 80
+  }
+]
+[2026-11-04T22:46:13.250Z] error: <httpProxy> Error calling http://192.168.1.28/...
+[2026-11-04T22:46:13.252Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 192.168.1.28:80
+      at <unknown> (Error: connect ECONNREFUSED 192.168.1.28:80) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '192.168.1.28',
+    port: 80
+  }
+]
+[2026-11-04T23:00:06.926Z] error: <httpProxy> Error calling http://192.168.1.28/...
+[2026-11-04T23:00:06.928Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 192.168.1.28:80
+      at <unknown> (Error: connect ECONNREFUSED 192.168.1.28:80) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '192.168.1.28',
+    port: 80
+  }
+]
+[2026-11-04T23:00:27.988Z] error: <httpProxy> Error calling http://192.168.1.28/...
+[2026-11-04T23:00:27.990Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 192.168.1.28:80
+      at <unknown> (Error: connect ECONNREFUSED 192.168.1.28:80) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '192.168.1.28',
+    port: 80
+  }
+]
+[2026-11-04T23:01:19.067Z] error: <httpProxy> Error calling http://192.168.1.28/...
+[2026-11-04T23:01:19.068Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 192.168.1.28:80
+      at <unknown> (Error: connect ECONNREFUSED 192.168.1.28:80) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '192.168.1.28',
+    port: 80
+  }
+]
+[2026-11-04T23:01:40.099Z] error: <httpProxy> Error calling http://192.168.1.28/...
+[2026-11-04T23:01:40.100Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 192.168.1.28:80
+      at <unknown> (Error: connect ECONNREFUSED 192.168.1.28:80) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '192.168.1.28',
+    port: 80
+  }
+]
+[2026-11-04T23:02:31.168Z] error: <httpProxy> Error calling http://192.168.1.28/...
+[2026-11-04T23:02:31.169Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 192.168.1.28:80
+      at <unknown> (Error: connect ECONNREFUSED 192.168.1.28:80) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '192.168.1.28',
+    port: 80
+  }
+]
+[2026-11-04T23:02:52.220Z] error: <httpProxy> Error calling http://192.168.1.28/...
+[2026-11-04T23:02:52.222Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 192.168.1.28:80
+      at <unknown> (Error: connect ECONNREFUSED 192.168.1.28:80) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '192.168.1.28',
+    port: 80
+  }
+]
+[2026-11-04T23:40:21.893Z] error: <httpProxy> Error calling http://192.168.1.28/...
+[2026-11-04T23:40:21.895Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 192.168.1.28:80
+      at <unknown> (Error: connect ECONNREFUSED 192.168.1.28:80) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '192.168.1.28',
+    port: 80
+  }
+]
+[2026-11-04T23:40:42.934Z] error: <httpProxy> Error calling http://192.168.1.28/...
+[2026-11-04T23:40:42.935Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 192.168.1.28:80
+      at <unknown> (Error: connect ECONNREFUSED 192.168.1.28:80) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '192.168.1.28',
+    port: 80
+  }
+]
+[2026-11-04T23:41:24.501Z] error: <httpProxy> Error calling http://192.168.1.28/...
+[2026-11-04T23:41:24.501Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 192.168.1.28:80
+      at <unknown> (Error: connect ECONNREFUSED 192.168.1.28:80) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '192.168.1.28',
+    port: 80
+  }
+]
+[2026-11-04T23:41:45.547Z] error: <httpProxy> Error calling http://192.168.1.28/...
+[2026-11-04T23:41:45.550Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 192.168.1.28:80
+      at <unknown> (Error: connect ECONNREFUSED 192.168.1.28:80) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '192.168.1.28',
+    port: 80
+  }
+]
+[2026-11-04T23:42:17.414Z] error: <httpProxy> Error calling http://192.168.1.28/...
+[2026-11-04T23:42:17.416Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 192.168.1.28:80
+      at <unknown> (Error: connect ECONNREFUSED 192.168.1.28:80) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '192.168.1.28',
+    port: 80
+  }
+]
+[2026-11-04T23:42:38.471Z] error: <httpProxy> Error calling http://192.168.1.28/...
+[2026-11-04T23:42:38.474Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 192.168.1.28:80
+      at <unknown> (Error: connect ECONNREFUSED 192.168.1.28:80) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '192.168.1.28',
+    port: 80
+  }
+]

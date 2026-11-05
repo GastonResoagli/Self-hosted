@@ -1,0 +1,63 @@
+services:
+  homepage:
+    image: ghcr.io/gethomepage/homepage:v1.1.1
+    container_name: homepage
+    ports:
+      - 3000:3000
+    volumes:
+      - ./config:/app/config
+    environment:
+      HOMEPAGE_ALLOWED_HOSTS: ${HOST_IP}:3000
+    restart: unless-stopped
+
+  docker-socket-proxy:
+    image: ghcr.io/tecnativa/docker-socket-proxy:0.3.0
+    container_name: docker-socket-proxy
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock:ro
+    environment:
+      CONTAINERS: 1
+    restart: unless-stopped
+
+  web-demo:
+    image: nginx:alpine
+    container_name: web-demo
+    ports:
+      - 8080:80
+    restart: unless-stopped
+    labels:
+      - homepage.group=Servicios
+      - homepage.name=Web de prueba
+      - homepage.href=http://localhost:8080
+      - homepage.description=Servidor Nginx
+      - homepage.icon=nginx
+      - homepage.siteMonitor=http://web-demo:80
+
+  app-node:
+    build: ./app-node
+    container_name: app-node
+    ports:
+      - 5000:5000
+    restart: unless-stopped
+    labels:
+      - homepage.group=Servicios
+      - homepage.name=API Node.js
+      - homepage.href=http://localhost:5000
+      - homepage.description=Microservicio Node.js
+      - homepage.icon=nodejs
+      - homepage.siteMonitor=http://app-node:5000
+
+  app-python:
+    build: ./app-python
+    container_name: app-python
+    ports:
+      - 8000:8000
+    restart: unless-stopped
+    labels:
+      - homepage.group=Servicios
+      - homepage.name=API Python
+      - homepage.href=http://localhost:8000
+      - homepage.description=Microservicio Python 3
+      - homepage.icon=python
+      - homepage.siteMonitor=http://app-python:8000
+
